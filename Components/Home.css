@@ -1,0 +1,83 @@
+.Home {
+  background-color: #eff2f1;
+}
+
+.text-1 {
+  margin-left: 200px;
+  padding-top: 100px;
+}
+.yellow {
+  margin-top: -520px;
+  margin-left: -200px;
+  z-index: 1;
+  position: relative;
+}
+
+#ses-3-img {
+  margin-right: -300px;
+}
+
+#img-green {
+  position: relative;
+  z-index: 1;
+  margin-top: -420px;
+}
+#img-couch {
+  height: 500px;
+  position: relative;
+  margin-left: -200px;
+  z-index: 2;
+}
+#img-lemp {
+  height: 150px;
+  position: relative;
+  margin-top: -350px;
+  z-index: 3;
+}
+#img-table {
+  height: 350px;
+  position: relative;
+  margin-top: -300px;
+  margin-left: 410px;
+  z-index: 4;
+}
+.Home a {
+  text-decoration: none;
+  color: black;
+}
+.Home a:hover {
+  opacity: 0.3;
+}
+#blog-post {
+  margin-right: 100px;
+}
+#blog-post a {
+  opacity: 10;
+}
+.lastmain {
+  padding-bottom: 200px;
+}
+
+/*================= footer ==============*/
+footer input {
+  border-radius: 10px;
+  padding: 2px;
+  margin-right: 5px;
+  border-color: #dfe3e6;
+}
+#sofa {
+  height: 300px;
+  margin-top: -250px;
+  margin-left: 350px;
+}
+.footer-text {
+  margin-left: 200px;
+  margin-right: 150px;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #c3c7ca;
+}
+.footer-text2 {
+  margin-left: 200px;
+  margin-right: 200px;
+}

@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  background-color: #3b5d50;
+  height: 600px;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: 20px;
+  margin-right: 20px;
+
+  height: 50px;
+}
+nav a:hover {
+  border-bottom: 3px solid yellow;
+}
+
+.text {
+  margin-top: 200px;
+  margin-left: 200px;
+}
+.head-img {
+  margin-top: -380px;
+  margin-left: 700px;
+}
+.head-img img {
+  height: 500px;
+}
+#couch {
+  position: relative;
+  z-index: 1;
+}
+#light {
+  margin-top: -750px;
+  height: 200px;
+  margin-left: 500px;
+  position: relative;
+}

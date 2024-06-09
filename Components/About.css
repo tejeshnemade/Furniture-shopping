@@ -1,0 +1,20 @@
+.Home {
+  background-color: #eff2f1;
+  padding-bottom: 200px;
+  padding-top: 100px;
+}
+.about {
+  margin-left: 200px;
+}
+#about-yellow {
+  z-index: 1;
+  height: 200px;
+  margin-top: -1055px;
+  margin-left: 900px;
+}
+.team {
+  margin-left: 200px;
+}
+.team a {
+  text-decoration: underline;
+}
