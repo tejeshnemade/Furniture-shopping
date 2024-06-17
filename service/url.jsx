@@ -1,6 +1,7 @@
 const server='http://localhost:7000'
 
 export default {
-    USER_REGISTRATION : `${server}/register/save`,
-    USER_LOGIN : `${server}/user/login`
-}
+  USER_REGISTRATION: `${server}/register/save`,
+  USER_LOGIN: `${server}/user/login`,
+  USER_PRODUCT: `${server}/product/getAllProducts`,
+};
